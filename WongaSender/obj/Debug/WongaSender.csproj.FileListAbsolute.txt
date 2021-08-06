@@ -1,0 +1,2 @@
+C:\Users\Muhammad\OneDrive\Projects 2021\WongaAssessment\WongaSender\WongaSender\bin\Debug\WongaSender.exe.config
+D:\WongaAssessment\WongaSender\WongaSender\bin\Debug\WongaSender.exe.config

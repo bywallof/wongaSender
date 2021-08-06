@@ -10,7 +10,7 @@ namespace WongaSender
     /// <summary>Class <c>Messaging</c> for sending a messaging in JSON-format to the Wonga Application
     /// </summary>
     ///
-    class Messaging
+    public class Messaging
     {
         private String name;
         private String queueName = "WONGA_QUEUE";
